@@ -7,6 +7,10 @@
 ``git commit -m "v1"``
 ``git branch -M master``
 ``git push -u master``
+## Incializar un proyecto
+``npm init -y``
+
+
 
 ## 📂Estructuras profesionales de una API en Node.js
 api-node
