@@ -39,7 +39,6 @@ PORRT=3000
 
 ```
 📂 src/config/database.js
-
 📂 src/server.js
 
 configuramos package.json ``"start": "node src/server.js"``
